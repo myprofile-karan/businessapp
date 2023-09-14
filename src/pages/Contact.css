@@ -1,0 +1,14 @@
+.imgcontact{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/imgabout.jpg);
+    padding: 20px 0;
+    background-size: cover;
+    background-position: center;
+}
+.imgcontact p{
+    text-align: center;
+    color: rgb(185, 180, 180);
+    font-size: 1.1rem;
+}
+textarea{
+    border: 1px solid rgb(232, 223, 223);
+}
