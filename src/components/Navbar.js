@@ -24,7 +24,7 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0 ">
               <li className="nav-item active">
-                <Link to="/" className="nav-link">Home</Link>
+                <Link to="/businessapp" className="nav-link">Home</Link>
               </li>
               <li className="nav-item">
                 <Link to="/about" className="nav-link">About</Link>

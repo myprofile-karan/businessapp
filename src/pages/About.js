@@ -9,10 +9,10 @@ const About = () => {
       <div className="container-fluid imgabout">
         <div className="col-12 col-sm-3 col-md-3 col-lg-3 mx-auto">
           <p>
-            <Link to="/" className="text-decoration-none">
+            <Link to="/businessapp" className="text-decoration-none">
               Home
             </Link>
-            > About
+             > About
           </p>
         </div>
       </div>

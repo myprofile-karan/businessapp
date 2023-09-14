@@ -7,10 +7,10 @@ const Contact = () => {
       <div className="container-fluid imgcontact">
         <div className="col-3 mx-auto">
           <p>
-            <Link to="/" className="text-decoration-none">
-              Home
+            <Link to="/businessapp" className="text-decoration-none">
+              Home 
             </Link>
-            Contact
+             > Contact
           </p>
         </div>
       </div>
