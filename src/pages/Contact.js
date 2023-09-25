@@ -76,6 +76,9 @@ const Contact = () => {
               <div className="col-12 mt-4">
                 <textarea className="form-control" value="Messages.." id="" cols="83" rows="7"></textarea>
               </div>
+              <div className="col-12 mt-4">
+                <button className="btn py-2 px-4 rounded-0 bg-primary text-white " type="submit">Submit</button>
+              </div>
             </div>
           </form>
         </div>

@@ -5,7 +5,7 @@ const Navbar = () => {
     <div> 
       <nav className="navbar navbar-expand-lg bg-body-tertiary py-2">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/businessapp">
             <span>
               <i className="fa-solid fa-building-columns text-primary fs-2"><span className="ms-2 fs-4">Easy Cash</span></i>
             </span>
